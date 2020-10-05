@@ -1,0 +1,14 @@
+{
+  "name": "my-droplet-app",
+  "version": "1.0.0",
+  "description": "full stack front end masters",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stella",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
